@@ -29,6 +29,8 @@ public class ToDayListAdapter extends RecyclerView.Adapter<ToDayListAdapter.MyVi
     public ToDayListAdapter(Context mContext, List<TodayList.ResultBean> todayDatas){
         this.mContext=mContext;
         this.todayDatas=todayDatas;
+        //
+        //
     };
 
     @Override
