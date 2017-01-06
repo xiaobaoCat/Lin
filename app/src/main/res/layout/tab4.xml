@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tv_my"
+    android:layout_width="0dp"
+    android:layout_weight="1"
+    android:layout_height="50dp"
+    android:background="@null"
+    android:gravity="center"
+    android:drawableTop="@drawable/tab4_image_selector"
+    android:textColor="@drawable/tab_text_color_selector"
+    android:drawablePadding="0dp"
+    android:textSize="10sp"
+    android:text="我" />
